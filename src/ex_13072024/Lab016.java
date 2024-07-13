@@ -8,7 +8,7 @@ public class Lab016 {
 
         // char c3 = '\b'; //backslash - deletes one char
 
-        char c4 = '\r'; //backslash -- deletes one word
+        char c4 = '\r';   //backslash -- deletes one word
 
 
 
