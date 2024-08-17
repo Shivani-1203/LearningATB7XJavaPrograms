@@ -4,5 +4,4 @@ public class Lab50 {
 
 
 
-    test
 }
